@@ -1,0 +1,17 @@
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\bin\Debug\net8.0\PublishLog.exe
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\bin\Debug\net8.0\PublishLog.deps.json
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\bin\Debug\net8.0\PublishLog.runtimeconfig.json
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\bin\Debug\net8.0\PublishLog.dll
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\bin\Debug\net8.0\PublishLog.pdb
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\obj\Debug\net8.0\PublishLog.csproj.AssemblyReference.cache
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\obj\Debug\net8.0\PublishLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\obj\Debug\net8.0\PublishLog.AssemblyInfoInputs.cache
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\obj\Debug\net8.0\PublishLog.AssemblyInfo.cs
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\obj\Debug\net8.0\PublishLog.csproj.CoreCompileInputs.cache
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\obj\Debug\net8.0\PublishLog.csproj.Up2Date
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\obj\Debug\net8.0\PublishLog.dll
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\obj\Debug\net8.0\refint\PublishLog.dll
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\obj\Debug\net8.0\PublishLog.pdb
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\obj\Debug\net8.0\PublishLog.genruntimeconfig.cache
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\PublishLog\obj\Debug\net8.0\ref\PublishLog.dll

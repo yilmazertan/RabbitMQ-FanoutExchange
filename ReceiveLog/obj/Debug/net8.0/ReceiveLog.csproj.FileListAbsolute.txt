@@ -1,0 +1,17 @@
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\bin\Debug\net8.0\ReceiveLog.exe
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\bin\Debug\net8.0\ReceiveLog.deps.json
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\bin\Debug\net8.0\ReceiveLog.runtimeconfig.json
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\bin\Debug\net8.0\ReceiveLog.dll
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\bin\Debug\net8.0\ReceiveLog.pdb
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\obj\Debug\net8.0\ReceiveLog.csproj.AssemblyReference.cache
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\obj\Debug\net8.0\ReceiveLog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\obj\Debug\net8.0\ReceiveLog.AssemblyInfoInputs.cache
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\obj\Debug\net8.0\ReceiveLog.AssemblyInfo.cs
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\obj\Debug\net8.0\ReceiveLog.csproj.CoreCompileInputs.cache
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\obj\Debug\net8.0\ReceiveLog.csproj.Up2Date
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\obj\Debug\net8.0\ReceiveLog.dll
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\obj\Debug\net8.0\refint\ReceiveLog.dll
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\obj\Debug\net8.0\ReceiveLog.pdb
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\obj\Debug\net8.0\ReceiveLog.genruntimeconfig.cache
+C:\Users\MERKEZ\source\repos\RabbitMQ-FanoutExchange\ReceiveLog\obj\Debug\net8.0\ref\ReceiveLog.dll
